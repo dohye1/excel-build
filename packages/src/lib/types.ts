@@ -64,4 +64,6 @@ type CellStyleType = {
   numFmt?: string;
 };
 
+type test = '';
+
 export type { CellObjectType, CellStyleType, ColorType };
